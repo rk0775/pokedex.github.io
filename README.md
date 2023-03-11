@@ -1,6 +1,6 @@
 # pokedex
 
-This is simple pokedex using pokeapi. pokeapi gives the pokemon details.<\br>
+This is simple pokedex using pokeapi. pokeapi gives the pokemon details.<br>
 URL is :https://rk0775.github.io/pokedex.github.io/disign.html
 
 Screenshots : 
